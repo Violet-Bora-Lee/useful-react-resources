@@ -5,8 +5,8 @@
 Archive useful React resources from learning material to components
 
 ## Official Resources
-- [English](https://reactjs.org/)
-- [Korean](https://ko.reactjs.org/)
+- [React in English](https://reactjs.org/)
+- [React in Korean](https://ko.reactjs.org/)
 
 
 ## Components & Libraries
