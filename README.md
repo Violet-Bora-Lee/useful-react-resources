@@ -11,7 +11,7 @@ Archive useful React resources from learning material to components
 
 ## Components & Libraries
 - [@brillout's awesome-react-components repository](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
-- [JS.coach](https://js.coach/) - Search Engine for Components, Biolerplaces and other Packages
+- [JS.coach](https://js.coach/) - Search Engine for Components, Boilerplates and other Packages
 - [React Rocks](https://react.rocks/) - Latest React Examples
 - [Khan Academy React Components](https://github.com/Khan/react-components)
 
