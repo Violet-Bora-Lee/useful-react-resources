@@ -5,9 +5,11 @@
 Archive useful React resources from learning material to components
 
 ## Official Resources
-- [React in English](https://reactjs.org/)
-- [React in Korean](https://ko.reactjs.org/)
+- [Official Website in English](https://reactjs.org/)
+- [Official Website in Korean](https://ko.reactjs.org/)
 - [GitHub](https://github.com/facebook/react)
+- [Repository for Documentation Website in English](https://github.com/reactjs/reactjs.org)
+- [Repository for Documentation Website in Korean](https://github.com/reactjs/ko.reactjs.org)
 - [Create-React-App GitHub](https://github.com/facebook/create-react-app)
 
 
