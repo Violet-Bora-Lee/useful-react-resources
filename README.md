@@ -5,12 +5,14 @@
 Archive useful React resources from learning material to components
 
 ## Official Resources
-- [Official Website in English](https://reactjs.org/)
-- [Official Website in Korean](https://ko.reactjs.org/)
+### Website
+- [English](https://reactjs.org/)
+- [Korean](https://ko.reactjs.org/)
+### Repository
 - [GitHub](https://github.com/facebook/react)
-- [Repository for Documentation Website in English](https://github.com/reactjs/reactjs.org)
-- [Repository for Documentation Website in Korean](https://github.com/reactjs/ko.reactjs.org)
-- [Create-React-App GitHub](https://github.com/facebook/create-react-app)
+- [Documentation Website in English](https://github.com/reactjs/reactjs.org)
+- [Documentation Website in Korean](https://github.com/reactjs/ko.reactjs.org)
+- [Create-React-App](https://github.com/facebook/create-react-app)
 
 
 ## Components & Libraries
@@ -21,14 +23,19 @@ Archive useful React resources from learning material to components
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 
 
-## Paid Courses Online
-- [Udacity's React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)
-- [Zenva Academy's Build Web Applications with React](https://academy.zenva.com/product/build-web-applications-with-react/)
-- [Modern React with Redux in Udemy](https://www.udemy.com/react-redux/)
-- [React - The Complete Guide in Udemy](https://www.udemy.com/react-the-complete-guide-incl-redux)
-
 ## Redux
 - [GitHub](https://github.com/reduxjs/redux)
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [redux-undo](https://github.com/omnidan/redux-undo) - higher order reducer to add undo/redo functionality to redux state containers
+
+
+### Articles
+- [Why use Redux over Facebook Flux?](https://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux/42952362)
+
+
+## Paid Courses Online
+- [Udacity's React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)
+- [Zenva Academy's Build Web Applications with React](https://academy.zenva.com/product/build-web-applications-with-react/)
+- [Modern React with Redux in Udemy](https://www.udemy.com/react-redux/)
+- [React - The Complete Guide in Udemy](https://www.udemy.com/react-the-complete-guide-incl-redux)
