@@ -16,8 +16,7 @@ Archive useful React resources from learning material to components
 - [JS.coach](https://js.coach/) - Search Engine for Components, Boilerplates and other Packages
 - [React Rocks](https://react.rocks/) - Latest React Examples
 - [Khan Academy React Components](https://github.com/Khan/react-components)
-- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for Reac
-- []
+- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 
 
 ## Paid Courses Online
