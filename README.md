@@ -15,7 +15,7 @@ Archive useful React resources from learning material to components
 - [Documentation repository in Korean](https://github.com/reactjs/ko.reactjs.org)
 - [Create-React-App](https://github.com/facebook/create-react-app)
 
-### Components & Libraries Samples
+### Component & Library Samples
 - [@brillout's awesome-react-components repository](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
 - [JS.coach](https://js.coach/) - Search Engine for Components, Boilerplates and other Packages
 - [React Rocks](https://react.rocks/) - Latest React Examples
@@ -24,17 +24,19 @@ Archive useful React resources from learning material to components
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 
 ### Resources
+- 
+- 
 
 
 ## Redux
 ### Officials
-#### Websites
+#### Website
 - [English](https://redux.io/)
 
 #### Repository
 - [Redux repository](https://github.com/reduxjs/redux)
 
-### Ligraries
+### Library
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [redux-undo](https://github.com/omnidan/redux-undo) - higher order reducer to add undo/redo functionality to redux state containers
 
