@@ -9,7 +9,7 @@ Archive useful React resources from learning material to components
 - [English](https://reactjs.org/)
 - [Korean](https://ko.reactjs.org/)
 ### Repository
-- [GitHub](https://github.com/facebook/react)
+- [Official repository by facebook](https://github.com/facebook/react)
 - [Documentation Website in English](https://github.com/reactjs/reactjs.org)
 - [Documentation Website in Korean](https://github.com/reactjs/ko.reactjs.org)
 - [Create-React-App](https://github.com/facebook/create-react-app)
@@ -24,7 +24,7 @@ Archive useful React resources from learning material to components
 
 
 ## Redux
-- [GitHub](https://github.com/reduxjs/redux)
+- [Official repository](https://github.com/reduxjs/redux)
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [redux-undo](https://github.com/omnidan/redux-undo) - higher order reducer to add undo/redo functionality to redux state containers
